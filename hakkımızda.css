@@ -1,0 +1,42 @@
+.box-1 {
+    width: 1349px;
+    height: 60px;
+    background-color: #424242;
+}
+
+.box-2 {
+    width: 700px;
+    height: 120px;
+    float: left;
+}
+
+.write-red {
+    color: rgb(153, 2, 2);
+    margin-left: 18px;
+    margin-top: 6px;
+    float: left;
+}
+
+.write-white {
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+}
+
+.write-green {
+    color: rgb(88, 163, 17);
+    font-size: 50px;
+}
+
+.write-yellow {
+    color: rgb(250, 250, 30);
+}
+
+.write-purple {
+    color: rgb(145, 4, 145);
+}
+
+.background-color {
+    background-color: rgb(221, 217, 217);
+}
